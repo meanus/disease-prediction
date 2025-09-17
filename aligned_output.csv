@@ -1,0 +1,467 @@
+Time,No. of Cases
+"Saturday, December 31, 2022 12:00:00 A.M.",0.0
+"Saturday, December 31, 2022 3:00:00 A.M.",6.0
+"Saturday, December 31, 2022 6:00:00 A.M.",1.0
+"Saturday, December 31, 2022 9:00:00 A.M.",0.0
+"Saturday, December 31, 2022 12:00:00 P.M.",1.0
+"Saturday, December 31, 2022 3:00:00 P.M.",0.0
+"Saturday, December 31, 2022 6:00:00 P.M.",1.0
+"Saturday, December 31, 2022 9:00:00 P.M.",1.0
+"Sunday, January 1, 2023 12:00:00 A.M.",2.0
+"Sunday, January 1, 2023 3:00:00 A.M.",1.0
+"Sunday, January 1, 2023 6:00:00 A.M.",1.0
+"Sunday, January 1, 2023 7:00:00 A.M.",5.0
+"Sunday, January 1, 2023 7:30:00 A.M.",3.0
+"Sunday, January 1, 2023 8:00:00 A.M.",4.0
+"Sunday, January 1, 2023 9:00:00 A.M.",2.0
+"Sunday, January 1, 2023 12:00:00 P.M.",1.0
+"Sunday, January 1, 2023 3:00:00 P.M.",0.0
+"Sunday, January 1, 2023 6:00:00 P.M.",1.0
+"Sunday, January 1, 2023 9:00:00 P.M.",1.0
+"Sunday, January 1, 2023 10:00:00 P.M.",1.0
+"Monday, January 2, 2023 12:00:00 A.M.",1.0
+"Monday, January 2, 2023 3:00:00 A.M.",0.0
+"Monday, January 2, 2023 6:00:00 A.M.",1.0
+"Monday, January 2, 2023 9:00:00 A.M.",1.0
+"Monday, January 2, 2023 12:00:00 P.M.",0.0
+"Monday, January 2, 2023 3:00:00 P.M.",0.0
+"Monday, January 2, 2023 6:00:00 P.M.",0.0
+"Monday, January 2, 2023 9:00:00 P.M.",0.0
+"Monday, January 2, 2023",
+"Tuesday, January 3, 2023 12:00:00 A.M.",0.0
+"Tuesday, January 3, 2023 3:00:00 A.M.",0.0
+"Tuesday, January 3, 2023 6:00:00 A.M.",0.0
+"Tuesday, January 3, 2023 9:00:00 A.M.",2.0
+"Tuesday, January 3, 2023 12:00:00 P.M.",1.0
+"Tuesday, January 3, 2023 3:00:00 P.M.",0.0
+"Tuesday, January 3, 2023 6:00:00 P.M.",0.0
+"Tuesday, January 3, 2023 9:00:00 P.M.",0.0
+"Tuesday, January 3, 2023",
+"Wednesday, January 4, 2023",0.0
+"Thursday, January 5, 2023",0.0
+"Friday, January 6, 2023",0.0
+"Saturday, January 7, 2023",0.0
+"Sunday, January 8, 2023",0.0
+"Monday, January 9, 2023",0.0
+"Tuesday, January 10, 2023",0.0
+"Wednesday, January 11, 2023",0.0
+"Thursday, January 12, 2023",0.0
+"Friday, January 13, 2023",0.0
+"Saturday, January 14, 2023",0.0
+"Sunday, January 15, 2023",0.0
+"Monday, January 16, 2023",0.0
+"Tuesday, January 17, 2023",0.0
+"Wednesday, January 18, 2023",0.0
+"Thursday, January 19, 2023",0.0
+"Friday, January 20, 2023",0.0
+"Saturday, January 21, 2023",0.0
+"Sunday, January 22, 2023",0.0
+"Monday, January 23, 2023",0.0
+"Tuesday, January 24, 2023",0.0
+"Wednesday, January 25, 2023",0.0
+"Thursday, January 26, 2023",0.0
+"Friday, January 27, 2023",0.0
+"Saturday, January 28, 2023",0.0
+"Sunday, January 29, 2023",0.0
+"Monday, January 30, 2023",0.0
+"Tuesday, January 31, 2023",0.0
+"Wednesday, February 1, 2023",0.0
+"Thursday, February 2, 2023",0.0
+"Friday, February 3, 2023",0.0
+"Saturday, February 4, 2023",0.0
+"Sunday, February 5, 2023",0.0
+"Monday, February 6, 2023",0.0
+"Tuesday, February 7, 2023",0.0
+"Wednesday, February 8, 2023",0.0
+"Thursday, February 9, 2023",0.0
+"Friday, February 10, 2023",0.0
+"Saturday, February 11, 2023",0.0
+"Sunday, February 12, 2023",0.0
+"Monday, February 13, 2023",0.0
+"Tuesday, February 14, 2023",0.0
+"Wednesday, February 15, 2023",0.0
+"Thursday, February 16, 2023",0.0
+"Friday, February 17, 2023",0.0
+"Saturday, February 18, 2023",0.0
+"Sunday, February 19, 2023",0.0
+"Monday, February 20, 2023",0.0
+"Tuesday, February 21, 2023",0.0
+"Wednesday, February 22, 2023",0.0
+"Thursday, February 23, 2023",0.0
+"Friday, February 24, 2023",0.0
+"Saturday, February 25, 2023",0.0
+"Sunday, February 26, 2023",0.0
+"Monday, February 27, 2023",0.0
+"Tuesday, February 28, 2023",0.0
+"Wednesday, March 1, 2023",0.0
+"Thursday, March 2, 2023",0.0
+"Friday, March 3, 2023",0.0
+"Saturday, March 4, 2023",0.0
+"Sunday, March 5, 2023",0.0
+"Monday, March 6, 2023",0.0
+"Tuesday, March 7, 2023",0.0
+"Wednesday, March 8, 2023",0.0
+"Thursday, March 9, 2023",0.0
+"Friday, March 10, 2023",0.0
+"Saturday, March 11, 2023",0.0
+"Sunday, March 12, 2023",0.0
+"Monday, March 13, 2023",0.0
+"Tuesday, March 14, 2023",0.0
+"Saturday, March 15, 2023 12:00:00 A.M.",1.0
+"Saturday, March 15, 2023 3:00:00 A.M.",0.0
+"Saturday, March 15, 2023 6:00:00 A.M.",2.0
+"Saturday, March 15, 2023 9:00:00 A.M.",3.0
+"Saturday, March 15, 2023 12:00:00 P.M.",1.0
+"Saturday, March 15, 2023 3:00:00 P.M.",0.0
+"Saturday, March 15, 2023 6:00:00 P.M.",1.0
+"Saturday, March 15, 2023 9:00:00 P.M.",2.0
+"Thursday, March 16, 2023 12:00:00 A.M.",0.0
+"Thursday, March 16, 2023 3:00:00 A.M.",0.0
+"Thursday, March 16, 2023 6:00:00 A.M.",1.0
+"Thursday, March 16, 2023 9:00:00 A.M.",2.0
+"Thursday, March 16, 2023 12:00:00 P.M.",2.0
+"Thursday, March 16, 2023 2:30:00 P.M.",4.0
+"Thursday, March 16, 2023 3:00:00 P.M.",1.0
+"Thursday, March 16, 2023 6:00:00 P.M.",3.0
+"Thursday, March 16, 2023 9:00:00 P.M.",2.0
+"Friday, March 17, 2023 12:00:00 A.M.",2.0
+"Friday, March 17, 2023 3:00:00 A.M.",1.0
+"Friday, March 17, 2023 6:00:00 A.M.",2.0
+"Friday, March 17, 2023 9:00:00 A.M.",3.0
+"Friday, March 17, 2023 12:00:00 P.M.",1.0
+"Friday, March 17, 2023 3:00:00 P.M.",0.0
+"Friday, March 17, 2023 6:00:00 P.M.",1.0
+"Friday, March 17, 2023 9:00:00 P.M.",2.0
+"Saturday, March 18, 2023",0.0
+"Sunday, March 19, 2023",0.0
+"Monday, March 20, 2023",0.0
+"Tuesday, March 21, 2023",0.0
+"Wednesday, March 22, 2023",0.0
+"Thursday, March 23, 2023",0.0
+"Friday, March 24, 2023",0.0
+"Saturday, March 25, 2023",0.0
+"Sunday, March 26, 2023",0.0
+"Monday, March 27, 2023",0.0
+"Tuesday, March 28, 2023",0.0
+"Wednesday, March 29, 2023",0.0
+"Thursday, March 30, 2023",0.0
+"Friday, March 31, 2023",0.0
+"Saturday, April 1, 2023",0.0
+"Sunday, April 2, 2023",0.0
+"Monday, April 3, 2023",0.0
+"Tuesday, April 4, 2023",0.0
+"Wednesday, April 5, 2023",0.0
+"Thursday, April 6, 2023",0.0
+"Friday, April 7, 2023",0.0
+"Saturday, April 8, 2023",0.0
+"Sunday, April 9, 2023",0.0
+"Monday, April 10, 2023",0.0
+"Tuesday, April 11, 2023",0.0
+"Wednesday, April 12, 2023",0.0
+"Thursday, April 13, 2023",0.0
+"Friday, April 14, 2023",0.0
+"Saturday, April 15, 2023",0.0
+"Sunday, April 16, 2023",0.0
+"Monday, April 17, 2023",0.0
+"Tuesday, April 18, 2023",0.0
+"Wednesday, April 19, 2023",0.0
+"Thursday, April 20, 2023",0.0
+"Friday, April 21, 2023",0.0
+"Saturday, April 22, 2023",0.0
+"Sunday, April 23, 2023",0.0
+"Monday, April 24, 2023",0.0
+"Tuesday, April 25, 2023",0.0
+"Wednesday, April 26, 2023",0.0
+"Thursday, April 27, 2023",0.0
+"Friday, April 28, 2023",0.0
+"Saturday, April 29, 2023",0.0
+"Sunday, April 30, 2023",0.0
+"Monday, May 1, 2023",0.0
+"Tuesday, May 2, 2023",0.0
+"Wednesday, May 3, 2023",0.0
+"Thursday, May 4, 2023",0.0
+"Friday, May 5, 2023",0.0
+"Saturday, May 6, 2023",0.0
+"Sunday, May 7, 2023",0.0
+"Monday, May 8, 2023",0.0
+"Tuesday, May 9, 2023",0.0
+"Wednesday, May 10, 2023",0.0
+"Thursday, May 11, 2023",0.0
+"Friday, May 12, 2023",0.0
+"Saturday, May 13, 2023",0.0
+"Sunday, May 14, 2023",0.0
+"Monday, May 15, 2023",0.0
+"Tuesday, May 16, 2023",0.0
+"Wednesday, May 17, 2023",0.0
+"Thursday, May 18, 2023",0.0
+"Friday, May 19, 2023",0.0
+"Saturday, May 20, 2023",0.0
+"Sunday, May 21, 2023",0.0
+"Monday, May 22, 2023",0.0
+"Tuesday, May 23, 2023",0.0
+"Wednesday, May 24, 2023",0.0
+"Thursday, May 25, 2023",0.0
+"Friday, May 26, 2023",0.0
+"Saturday, May 27, 2023",0.0
+"Sunday, May 28, 2023",0.0
+"Monday, May 29, 2023",0.0
+"Tuesday, May 30, 2023",0.0
+"Wednesday, May 31, 2023",0.0
+"Thursday, June 1, 2023",0.0
+"Friday, June 2, 2023",0.0
+"Saturday, June 3, 2023",0.0
+"Sunday, June 4, 2023",0.0
+"Monday, June 5, 2023",0.0
+"Tuesday, June 6, 2023",0.0
+"Wednesday, June 7, 2023",0.0
+"Thursday, June 8, 2023",0.0
+"Friday, June 9, 2023",0.0
+"Saturday, June 10, 2023",0.0
+"Sunday, June 11, 2023",0.0
+"Monday, June 12, 2023",0.0
+"Tuesday, June 13, 2023",0.0
+"Wednesday, June 14, 2023",0.0
+"Thursday, June 15, 2023",0.0
+"Friday, June 16, 2023",0.0
+"Saturday, June 17, 2023",0.0
+"Sunday, June 18, 2023",0.0
+"Monday, June 19, 2023",0.0
+"Tuesday, June 20, 2023",0.0
+"Wednesday, June 21, 2023",0.0
+"Thursday, June 22, 2023",0.0
+"Friday, June 23, 2023",0.0
+"Saturday, June 24, 2023",0.0
+"Sunday, June 25, 2023",0.0
+"Monday, June 26, 2023",0.0
+"Tuesday, June 27, 2023",0.0
+"Wednesday, June 28, 2023",0.0
+"Thursday, June 29, 2023",0.0
+"Friday, June 30, 2023",0.0
+"Saturday, July 1, 2023",0.0
+"Sunday, July 2, 2023",0.0
+"Monday, July 3, 2023",0.0
+"Tuesday, July 4, 2023",0.0
+"Wednesday, July 5, 2023",0.0
+"Thursday, July 6, 2023",0.0
+"Friday, July 7, 2023",0.0
+"Saturday, July 8, 2023",0.0
+"Sunday, July 9, 2023",0.0
+"Monday, July 10, 2023",0.0
+"Tuesday, July 11, 2023",0.0
+"Wednesday, July 12, 2023",0.0
+"Thursday, July 13, 2023",0.0
+"Friday, July 14, 2023",0.0
+"Saturday, July 15, 2023",0.0
+"Sunday, July 16, 2023",0.0
+"Monday, July 17, 2023",0.0
+"Tuesday, July 18, 2023",0.0
+"Wednesday, July 19, 2023",0.0
+"Thursday, July 20, 2023",0.0
+"Friday, July 21, 2023",0.0
+"Saturday, July 22, 2023",0.0
+"Sunday, July 23, 2023",0.0
+"Monday, July 24, 2023",0.0
+"Tuesday, July 25, 2023",0.0
+"Wednesday, July 26, 2023",0.0
+"Thursday, July 27, 2023",0.0
+"Friday, July 28, 2023",0.0
+"Saturday, July 29, 2023",0.0
+"Sunday, July 30, 2023",0.0
+"Monday, July 31, 2023",0.0
+"Tuesday, August 1, 2023",0.0
+"Wednesday, August 2, 2023",0.0
+"Thursday, August 3, 2023",0.0
+"Friday, August 4, 2023",0.0
+"Saturday, August 5, 2023",0.0
+"Sunday, August 6, 2023",0.0
+"Monday, August 7, 2023",0.0
+"Tuesday, August 8, 2023",0.0
+"Wednesday, August 9, 2023",0.0
+"Thursday, August 10, 2023 12:00:00 A.M.",0.0
+"Thursday, August 10, 2023 3:00:00 A.M.",2.0
+"Thursday, August 10, 2023 6:00:00 A.M.",1.0
+"Thursday, August 10, 2023 9:00:00 A.M.",5.0
+"Thursday, August 10, 2023 12:00:00 P.M.",3.0
+"Thursday, August 10, 2023 3:00:00 P.M.",1.0
+"Thursday, August 10, 2023 6:00:00 P.M.",2.0
+"Thursday, August 10, 2023 9:00:00 P.M.",1.0
+"Friday, August 11, 2023 12:00:00 A.M.",1.0
+"Friday, August 11, 2023 3:00:00 A.M.",1.0
+"Friday, August 11, 2023 6:00:00 A.M.",3.0
+"Friday, August 11, 2023 8:00:00 A.M.",4.0
+"Friday, August 11, 2023 9:00:00 A.M.",2.0
+"Friday, August 11, 2023 12:00:00 P.M.",1.0
+"Friday, August 11, 2023 3:00:00 P.M.",0.0
+"Friday, August 11, 2023 6:00:00 P.M.",2.0
+"Friday, August 11, 2023 9:00:00 P.M.",3.0
+"Saturday, August 12, 2023 12:00:00 A.M.",2.0
+"Saturday, August 12, 2023 3:00:00 A.M.",0.0
+"Saturday, August 12, 2023 6:00:00 A.M.",1.0
+"Saturday, August 12, 2023 9:00:00 A.M.",2.0
+"Saturday, August 12, 2023 12:00:00 P.M.",2.0
+"Saturday, August 12, 2023 3:00:00 P.M.",1.0
+"Saturday, August 12, 2023 6:00:00 P.M.",2.0
+"Saturday, August 12, 2023 9:00:00 P.M.",1.0
+"Sunday, August 13, 2023",0.0
+"Monday, August 14, 2023",0.0
+"Tuesday, August 15, 2023",0.0
+"Wednesday, August 16, 2023",0.0
+"Thursday, August 17, 2023",0.0
+"Friday, August 18, 2023",0.0
+"Saturday, August 19, 2023",0.0
+"Sunday, August 20, 2023",0.0
+"Monday, August 21, 2023",0.0
+"Tuesday, August 22, 2023",0.0
+"Wednesday, August 23, 2023",0.0
+"Thursday, August 24, 2023",0.0
+"Friday, August 25, 2023",0.0
+"Saturday, August 26, 2023",0.0
+"Sunday, August 27, 2023",0.0
+"Monday, August 28, 2023",0.0
+"Tuesday, August 29, 2023",0.0
+"Wednesday, August 30, 2023",0.0
+"Thursday, August 31, 2023",0.0
+"Friday, September 1, 2023",0.0
+"Saturday, September 2, 2023",0.0
+"Sunday, September 3, 2023",0.0
+"Monday, September 4, 2023",0.0
+"Tuesday, September 5, 2023",0.0
+"Wednesday, September 6, 2023",0.0
+"Thursday, September 7, 2023",0.0
+"Friday, September 8, 2023",0.0
+"Saturday, September 9, 2023",0.0
+"Sunday, September 10, 2023",0.0
+"Monday, September 11, 2023",0.0
+"Tuesday, September 12, 2023",0.0
+"Wednesday, September 13, 2023",0.0
+"Thursday, September 14, 2023",0.0
+"Friday, September 15, 2023",0.0
+"Saturday, September 16, 2023",0.0
+"Sunday, September 17, 2023",0.0
+"Monday, September 18, 2023",0.0
+"Tuesday, September 19, 2023",0.0
+"Wednesday, September 20, 2023 12:00:00 A.M.",0.0
+"Wednesday, September 20, 2023 3:00:00 A.M.",1.0
+"Wednesday, September 20, 2023 6:00:00 A.M.",2.0
+"Wednesday, September 20, 2023 9:00:00 A.M.",4.0
+"Wednesday, September 20, 2023 12:00:00 P.M.",2.0
+"Wednesday, September 20, 2023 3:00:00 P.M.",1.0
+"Wednesday, September 20, 2023 6:00:00 P.M.",3.0
+"Wednesday, September 20, 2023 9:00:00 P.M.",2.0
+"Thursday, September 21, 2023 12:00:00 A.M.",1.0
+"Thursday, September 21, 2023 3:00:00 A.M.",0.0
+"Thursday, September 21, 2023 6:00:00 A.M.",2.0
+"Thursday, September 21, 2023 8:00:00 A.M.",3.0
+"Thursday, September 21, 2023 9:00:00 A.M.",1.0
+"Thursday, September 21, 2023 12:00:00 P.M.",0.0
+"Thursday, September 21, 2023 3:00:00 P.M.",1.0
+"Thursday, September 21, 2023 6:00:00 P.M.",2.0
+"Thursday, September 21, 2023 9:00:00 P.M.",1.0
+"Friday, September 22, 2023 12:00:00 A.M.",0.0
+"Friday, September 22, 2023 3:00:00 A.M.",1.0
+"Friday, September 22, 2023 6:00:00 A.M.",1.0
+"Friday, September 22, 2023 9:00:00 A.M.",2.0
+"Friday, September 22, 2023 12:00:00 P.M.",1.0
+"Friday, September 22, 2023 3:00:00 P.M.",0.0
+"Friday, September 22, 2023 6:00:00 P.M.",1.0
+"Friday, September 22, 2023 9:00:00 P.M.",2.0
+"Saturday, September 23, 2023",0.0
+"Sunday, September 24, 2023",0.0
+"Monday, September 25, 2023",0.0
+"Tuesday, September 26, 2023",0.0
+"Wednesday, September 27, 2023",0.0
+"Thursday, September 28, 2023",0.0
+"Friday, September 29, 2023",0.0
+"Saturday, September 30, 2023",0.0
+"Sunday, October 1, 2023",0.0
+"Monday, October 2, 2023",0.0
+"Tuesday, October 3, 2023",0.0
+"Wednesday, October 4, 2023",0.0
+"Thursday, October 5, 2023",0.0
+"Friday, October 6, 2023",0.0
+"Saturday, October 7, 2023",0.0
+"Sunday, October 8, 2023",0.0
+"Monday, October 9, 2023",0.0
+"Tuesday, October 10, 2023",0.0
+"Wednesday, October 11, 2023",0.0
+"Thursday, October 12, 2023",0.0
+"Friday, October 13, 2023",0.0
+"Saturday, October 14, 2023",0.0
+"Sunday, October 15, 2023",0.0
+"Monday, October 16, 2023",0.0
+"Tuesday, October 17, 2023",0.0
+"Wednesday, October 18, 2023",0.0
+"Thursday, October 19, 2023",0.0
+"Friday, October 20, 2023",0.0
+"Saturday, October 21, 2023",0.0
+"Sunday, October 22, 2023",0.0
+"Monday, October 23, 2023",0.0
+"Tuesday, October 24, 2023",0.0
+"Wednesday, October 25, 2023",0.0
+"Thursday, October 26, 2023",0.0
+"Friday, October 27, 2023",0.0
+"Saturday, October 28, 2023",0.0
+"Sunday, October 29, 2023",0.0
+"Monday, October 30, 2023",0.0
+"Tuesday, October 31, 2023",0.0
+"Wednesday, November 1, 2023",0.0
+"Thursday, November 2, 2023",0.0
+"Friday, November 3, 2023",0.0
+"Saturday, November 4, 2023",0.0
+"Sunday, November 5, 2023",0.0
+"Monday, November 6, 2023",0.0
+"Tuesday, November 7, 2023",0.0
+"Wednesday, November 8, 2023",0.0
+"Thursday, November 9, 2023",0.0
+"Friday, November 10, 2023",0.0
+"Saturday, November 11, 2023",0.0
+"Sunday, November 12, 2023",0.0
+"Monday, November 13, 2023",0.0
+"Tuesday, November 14, 2023",0.0
+"Wednesday, November 15, 2023",0.0
+"Thursday, November 16, 2023",0.0
+"Friday, November 17, 2023",0.0
+"Saturday, November 18, 2023",0.0
+"Sunday, November 19, 2023",0.0
+"Monday, November 20, 2023",0.0
+"Tuesday, November 21, 2023",0.0
+"Wednesday, November 22, 2023",0.0
+"Thursday, November 23, 2023",0.0
+"Friday, November 24, 2023",0.0
+"Saturday, November 25, 2023",0.0
+"Sunday, November 26, 2023",0.0
+"Monday, November 27, 2023",0.0
+"Tuesday, November 28, 2023",0.0
+"Wednesday, November 29, 2023",0.0
+"Thursday, November 30, 2023",0.0
+"Friday, December 1, 2023",0.0
+"Saturday, December 2, 2023",0.0
+"Sunday, December 3, 2023",0.0
+"Monday, December 4, 2023",0.0
+"Tuesday, December 5, 2023",0.0
+"Wednesday, December 6, 2023",0.0
+"Thursday, December 7, 2023",0.0
+"Friday, December 8, 2023",0.0
+"Saturday, December 9, 2023",0.0
+"Sunday, December 10, 2023",0.0
+"Monday, December 11, 2023",0.0
+"Tuesday, December 12, 2023",0.0
+"Wednesday, December 13, 2023",0.0
+"Thursday, December 14, 2023",0.0
+"Friday, December 15, 2023",0.0
+"Saturday, December 16, 2023",0.0
+"Sunday, December 17, 2023",0.0
+"Monday, December 18, 2023",0.0
+"Tuesday, December 19, 2023",0.0
+"Wednesday, December 20, 2023",0.0
+"Thursday, December 21, 2023",0.0
+"Friday, December 22, 2023",0.0
+"Saturday, December 23, 2023",0.0
+"Sunday, December 24, 2023",0.0
+"Monday, December 25, 2023",0.0
+"Tuesday, December 26, 2023",0.0
+"Wednesday, December 27, 2023",0.0
+"Thursday, December 28, 2023",0.0
+"Friday, December 29, 2023",0.0
+"Saturday, December 30, 2023",0.0
+"Sunday, December 31, 2023",0.0
